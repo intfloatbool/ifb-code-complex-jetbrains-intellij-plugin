@@ -22,6 +22,11 @@ This helps you:
 - ⚡ Supports Java and Kotlin.
 - 🧠 Powered by structural code analysis — no external tools required.
 
+## 🖥️ Supported Platforms
+
+- ✅ Windows 64-bit
+- ✅ macOS (Apple Silicon, arm64)
+
 ---
 
 ## 📸 Screenshots
