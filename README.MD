@@ -52,7 +52,7 @@ This helps you:
 
 Find **CodeComplex by IFB** on the JetBrains Marketplace, or install manually:
 
-1. Go to **Settings > Plugins > Marketplace**.
+1. Go to **Settings > Plugins > Marketplace**. Or directly by [Marketplace Link](https://plugins.jetbrains.com/plugin/27551-codecomplex-by-ifb-free-)
 2. Search for `CodeComplex`.
 3. Click **Install** and restart the IDE.
 
