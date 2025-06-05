@@ -73,7 +73,11 @@ Find **CodeComplex by IFB** on the JetBrains Marketplace, or install manually:
 
 2. 📦 **Download the `.zip` archive** with the plugin after purchase.
 
-3. 🧩 **Install it in IntelliJ IDEA**:  
+3. ⚠️ *(Optional but recommended)*  
+   **Uninstall the FREE version** of CodeComplex first:  
+   `Settings / Preferences → Plugins → Installed → CodeComplex → ⚙️ → Uninstall`
+
+4. 🧩 **Install the PRO version**:  
    `Settings / Preferences → Plugins → ⚙️ (Gear Icon) → Install Plugin from Disk...`  
    Select the downloaded `.zip` file and restart your IDE.
 
