@@ -29,6 +29,16 @@ This helps you:
 
 ---
 
+### 💎 Upgrade to PRO
+
+Want colored complexity indicators and enhanced analysis?
+
+![Buy PRO](./public_data/buy_pro.png)](https://www.digiseller.market/asp2/pay_wm.asp?id_d=5205974&lang=ru-RU)
+
+Get the full power of **CodeComplex PRO by IFB** for Java and Kotlin in IntelliJ IDEA.
+
+---
+
 ## 📸 Screenshots
 
 ![Kotlin](./public_data/gifs/kotlin_work.gif)
