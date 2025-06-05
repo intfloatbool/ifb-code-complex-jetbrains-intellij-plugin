@@ -1,0 +1,6 @@
+CodeComplex PRO — Proprietary License
+
+This plugin is commercial software. You may not redistribute, modify, or reverse engineer it.
+A license must be purchased from the author to use this software.
+
+Copyright (c) 2025 Vladimir Khanyakin
